@@ -1,0 +1,48 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 21 Feb 2023 18:12:50 at https://www.hotelshingarmanali.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.hotelshingarmanali.com/ -O1 "C:\My Web Sites\Hotel Shingar Manali" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:13:31	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/favicon.ico (from https://www.hotelshingarmanali.com/)
+18:14:11	Warning: 	Retry after error 409 (Conflict) at link https://www.hotelshingarmanali.com/contact-us.php (from https://www.hotelshingarmanali.com/)
+18:14:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.hotelshingarmanali.com/images/slider3.jpg (from https://www.hotelshingarmanali.com/)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/css/owl.video.play.png (from https://www.hotelshingarmanali.com/css/owl.carousel.min.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/Product/fullscreen_black.png (from https://www.hotelshingarmanali.com/css/vit-gallery.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/Product/close_black_2x.png (from https://www.hotelshingarmanali.com/css/vit-gallery.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/Product/left_black_2x.png (from https://www.hotelshingarmanali.com/css/vit-gallery.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/Product/right_black_2x.png (from https://www.hotelshingarmanali.com/css/vit-gallery.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/Product/left_black-1.png (from https://www.hotelshingarmanali.com/css/vit-gallery.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/Product/right_black-1.png (from https://www.hotelshingarmanali.com/css/vit-gallery.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/Product/left_black.png (from https://www.hotelshingarmanali.com/css/vit-gallery.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/Product/right_black.png (from https://www.hotelshingarmanali.com/css/vit-gallery.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/fonts/bootstrap/glyphicons-halflings-regular.eot (from https://www.hotelshingarmanali.com/css/styles.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/fonts/bootstrap/glyphicons-halflings-regular.eot? (from https://www.hotelshingarmanali.com/css/styles.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/fonts/bootstrap/glyphicons-halflings-regular.woff2 (from https://www.hotelshingarmanali.com/css/styles.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/fonts/bootstrap/glyphicons-halflings-regular.woff (from https://www.hotelshingarmanali.com/css/styles.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/fonts/bootstrap/glyphicons-halflings-regular.ttf (from https://www.hotelshingarmanali.com/css/styles.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/fonts/bootstrap/glyphicons-halflings-regular.svg (from https://www.hotelshingarmanali.com/css/styles.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/Home-1/even-l-icon-color.png (from https://www.hotelshingarmanali.com/css/styles.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/Home-1/even-l-icon.png (from https://www.hotelshingarmanali.com/css/styles.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/Home-1/even-r-icon.png (from https://www.hotelshingarmanali.com/css/styles.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/Home-1/even-l-icon-color1.png (from https://www.hotelshingarmanali.com/css/styles.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/Restaurants/Restaurants-60.jpg (from https://www.hotelshingarmanali.com/css/styles.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/Home-1/Testimonials.jpg (from https://www.hotelshingarmanali.com/css/styles.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/Home-2/Testimonials-bg.jpg (from https://www.hotelshingarmanali.com/css/styles.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/404page/404page.jpg (from https://www.hotelshingarmanali.com/css/styles.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/Login/login.jpg (from https://www.hotelshingarmanali.com/css/styles.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/404page/Comming.jpg (from https://www.hotelshingarmanali.com/css/styles.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/Restaurants/Restaurants.jpg (from https://www.hotelshingarmanali.com/css/styles.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/Restaurants/Restaurants-47.jpg (from https://www.hotelshingarmanali.com/css/styles.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/Blog/Shape-101.png (from https://www.hotelshingarmanali.com/css/styles.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/Blog/Shape-1101.png (from https://www.hotelshingarmanali.com/css/styles.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/About/about-2.jpg (from https://www.hotelshingarmanali.com/css/styles.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/Home-4/footer.jpg (from https://www.hotelshingarmanali.com/css/styles.css)
+18:14:12	Error: 	"Read error when decompressing" (-1) at link https://www.hotelshingarmanali.com/images/Home-3/news.jpg (from https://www.hotelshingarmanali.com/css/styles.css)
+18:14:12	Warning: 	Retry after error 409 (Conflict) at link https://www.hotelshingarmanali.com/contact-us.php (from https://www.hotelshingarmanali.com/)
+18:14:17	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.hotelshingarmanali.com/contact-us.php (from https://www.hotelshingarmanali.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 27 seconds : 187 links scanned, 149 files written (9164198 bytes overall) [9084707 bytes received at 104421 bytes/sec], 205354 bytes transferred using HTTP compression in 42 files, ratio 27%, 9.3 requests per connection
+(34 errors, 3 warnings, 0 messages)
